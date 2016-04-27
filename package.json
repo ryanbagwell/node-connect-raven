@@ -1,6 +1,6 @@
 {
   "name": "connect-raven",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "connect error handling middleware logging via raven",
   "main": "index.js",
   "scripts": {
